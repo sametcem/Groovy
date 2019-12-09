@@ -1,1 +1,1 @@
-# Groovy
+# Groovy-edu
