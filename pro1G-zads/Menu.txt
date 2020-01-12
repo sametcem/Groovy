@@ -1,0 +1,2 @@
+Pierogi 5,93 EUR, Zupa 2,82 EUR, Woda 0,23 EUR,
+Hamburger 5,12 EUR
